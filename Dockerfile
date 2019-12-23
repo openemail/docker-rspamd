@@ -1,5 +1,5 @@
 FROM debian:buster-slim
-LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
+LABEL maintainer "Amila Kothalawala <amila@openemail.io>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG CODENAME=buster
